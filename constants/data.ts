@@ -5,7 +5,7 @@ export const cards = [
   {
     title: "Card 1",
     location: "Location 1",
-    price: "$100",
+    price: "KES10000",
     rating: 4.8,
     category: "house",
     image: images.newYork,
@@ -13,7 +13,7 @@ export const cards = [
   {
     title: "Card 2",
     location: "Location 2",
-    price: "$200",
+    price: "KES20000",
     rating: 3,
     category: "house",
     image: images.japan,
@@ -21,7 +21,7 @@ export const cards = [
   {
     title: "Card 3",
     location: "Location 3",
-    price: "$300",
+    price: "KES30000",
     rating: 2,
     category: "flat",
     image: images.newYork,
@@ -29,7 +29,7 @@ export const cards = [
   {
     title: "Card 4",
     location: "Location 4",
-    price: "$400",
+    price: "KES400000",
     rating: 5,
     category: "villa",
     image: images.japan,
@@ -40,7 +40,7 @@ export const featuredCards = [
   {
     title: "Featured 1",
     location: "Location 1",
-    price: "$100",
+    price: "KES10000",
     rating: 4.8,
     image: images.newYork,
     category: "house",
@@ -48,7 +48,7 @@ export const featuredCards = [
   {
     title: "Featured 2",
     location: "Location 2",
-    price: "$200",
+    price: "KES20000",
     rating: 3,
     image: images.japan,
     category: "flat",
